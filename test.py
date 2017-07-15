@@ -5,7 +5,7 @@ import openpyxl
 import os
 import time
 
-graph = facebook.GraphAPI(access_token='EAACEdEose0cBADO4MV4GEksreoXqFbcrVZCLZCcFXoCwalK9gmz6JCn0SNGx33R9OWzIrtLyxfblHud3W9NdGWZCQXoZCibPfNUMZBHOojQvZBTqHEV1wvuKXUVCf1EFQZBl9AMVan43M1IaayrvBA0jm9k1cTVu9yroCgxWCPq9x8y0XxznZBtZB1gKfvXo1K9wZD', version='2.9')
+graph = facebook.GraphAPI(access_token='inserir o Access Token aqui', version='2.9')
 
 pp = pprint.PrettyPrinter(indent=4)
 
